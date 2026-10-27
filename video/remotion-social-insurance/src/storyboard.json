@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01-payslip.svg",
+    "label": "導入",
+    "caption": "給与明細と会社員の疑問を結びつけます。",
+    "seconds": 8
+  },
+  {
+    "file": "02-pooling.svg",
+    "label": "目的",
+    "caption": "負担する人から、必要な人への支えを図解します。",
+    "seconds": 8
+  },
+  {
+    "file": "03-fields.svg",
+    "label": "4分野",
+    "caption": "困りごとと4分野を対応づけます。",
+    "seconds": 8
+  },
+  {
+    "file": "04-risk.svg",
+    "label": "リスク分散",
+    "caption": "一人で抱える負担と、社会で備える仕組みを比較します。",
+    "seconds": 8
+  },
+  {
+    "file": "05-coverage.svg",
+    "label": "幅広い保障",
+    "caption": "生活のさまざまな場面で支えがあることを示します。",
+    "seconds": 8
+  },
+  {
+    "file": "06-contributions.svg",
+    "label": "負担の仕組み",
+    "caption": "給与に応じる負担の例と、制度ごとの違いを区別します。",
+    "seconds": 8
+  },
+  {
+    "file": "07-cautions.svg",
+    "label": "注意点",
+    "caption": "保険料・給付条件・保障範囲の限界を分けて示します。",
+    "seconds": 8
+  },
+  {
+    "file": "08-how-to-use.svg",
+    "label": "利用の3ステップ",
+    "caption": "困りごとを整理 → 関係する制度を探す → 対象・条件・手続きを確認。社会保険全体を利用につなげる手順です。",
+    "seconds": 8
+  },
+  {
+    "file": "09-contacts-v2.svg",
+    "label": "相談先",
+    "caption": "医療・年金・介護・労働の全分野について、主な確認先へつなぎます。労働保険は雇用・労災の2行に分けています。",
+    "seconds": 8
+  },
+  {
+    "file": "10-summary.svg",
+    "label": "まとめ",
+    "caption": "冒頭の疑問に答え、次の行動を一つ示します。",
+    "seconds": 8
+  }
+]

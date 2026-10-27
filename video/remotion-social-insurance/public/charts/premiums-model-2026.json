@@ -1,0 +1,271 @@
+{
+  "model": {
+    "checkedAt": "2026-10-22",
+    "salary": 300000,
+    "standardRemuneration": 300000,
+    "startAge": 22,
+    "endAge": 60,
+    "careStartAge": 40,
+    "notes": "2026年10月時点の料率と月給を38年間固定。将来予測ではない。"
+  },
+  "sources": [
+    {
+      "id": "P01",
+      "name": "協会けんぽ｜2026年度 東京の保険料額表",
+      "url": "https://www.kyoukaikenpo.or.jp/assets/R8_13tokyo.pdf",
+      "section": "標準報酬月額300,000円の行、料率・適用開始時期",
+      "effective": "健康・介護：2026年3月分〜／支援金：2026年4月分〜"
+    },
+    {
+      "id": "P02",
+      "name": "日本年金機構｜2026年度 厚生年金保険料額表",
+      "url": "https://www.nenkin.go.jp/service/kounen/hokenryo/ryogaku/ryogakuhyo/20200825.files/R08ryougaku.pdf",
+      "section": "19等級：報酬290,000円以上310,000円未満、標準報酬300,000円",
+      "effective": "料率18.3％：2017年9月分〜"
+    },
+    {
+      "id": "P03",
+      "name": "厚生労働省｜2026年度 雇用保険料率",
+      "url": "https://www.mhlw.go.jp/content/001692566.pdf",
+      "section": "一般の事業、労働者負担5/1000",
+      "effective": "2026-04-01〜2027-03-31"
+    },
+    {
+      "id": "P04",
+      "name": "こども家庭庁｜子ども・子育て支援金制度",
+      "url": "https://www.cfa.go.jp/policies/kodomokosodateshienkinseido",
+      "section": "令和8年度の支援金額（試算）、被用者保険",
+      "effective": "2026年4月分〜、2026年度の率0.23％"
+    },
+    {
+      "id": "P05",
+      "name": "厚生労働省｜労働保険とは",
+      "url": "https://www.mhlw.go.jp/seisakunitsuite/bunya/koyou_roudou/roudoukijun/hoken/tokusetusaito/about.html",
+      "section": "保険料の負担（労災分は全額事業主負担）",
+      "effective": "2026-10-22確認"
+    },
+    {
+      "id": "P06",
+      "name": "日本年金機構｜厚生年金保険の保険料",
+      "url": "https://www.nenkin.go.jp/service/kounen/hokenryo/hoshu/20150515-01.html",
+      "section": "標準報酬月額と賞与、報酬に含む手当",
+      "effective": "ページ更新2026-09-30"
+    }
+  ],
+  "monthlyUnder40": {
+    "pension": 27450,
+    "health": 14775,
+    "employment": 1500,
+    "care": 0
+  },
+  "monthly40To59": {
+    "pension": 27450,
+    "health": 14775,
+    "employment": 1500,
+    "care": 2430
+  },
+  "socialMonthlyUnder40": 43725,
+  "socialMonthly40To59": 46155,
+  "monthlySupport": 345,
+  "annualUnder40": {
+    "grossSalary": 3600000,
+    "socialTotal": 524700,
+    "supportTotal": 4140,
+    "socialShare": 0.14575
+  },
+  "annual40To59": {
+    "grossSalary": 3600000,
+    "socialTotal": 553860,
+    "supportTotal": 4140,
+    "socialShare": 0.15385
+  },
+  "final": {
+    "age": 60,
+    "months": 456,
+    "careMonths": 240,
+    "amounts": {
+      "pension": 12517200,
+      "health": 6737400,
+      "employment": 684000,
+      "care": 583200
+    },
+    "grossSalary": 136800000,
+    "socialShare": 0.15001315789473685,
+    "socialTotal": 20521800,
+    "supportTotal": 157320,
+    "payrollTotal": 20679120
+  },
+  "milestones": [
+    {
+      "age": 22,
+      "months": 0,
+      "careMonths": 0,
+      "amounts": {
+        "pension": 0,
+        "health": 0,
+        "employment": 0,
+        "care": 0
+      },
+      "grossSalary": 0,
+      "socialShare": 0,
+      "socialTotal": 0,
+      "supportTotal": 0,
+      "payrollTotal": 0
+    },
+    {
+      "age": 30,
+      "months": 96,
+      "careMonths": 0,
+      "amounts": {
+        "pension": 2635200,
+        "health": 1418400,
+        "employment": 144000,
+        "care": 0
+      },
+      "grossSalary": 28800000,
+      "socialShare": 0.14575,
+      "socialTotal": 4197600,
+      "supportTotal": 33120,
+      "payrollTotal": 4230720
+    },
+    {
+      "age": 40,
+      "months": 216,
+      "careMonths": 0,
+      "amounts": {
+        "pension": 5929200,
+        "health": 3191400,
+        "employment": 324000,
+        "care": 0
+      },
+      "grossSalary": 64800000,
+      "socialShare": 0.14575,
+      "socialTotal": 9444600,
+      "supportTotal": 74520,
+      "payrollTotal": 9519120
+    },
+    {
+      "age": 50,
+      "months": 336,
+      "careMonths": 120,
+      "amounts": {
+        "pension": 9223200,
+        "health": 4964400,
+        "employment": 504000,
+        "care": 291600
+      },
+      "grossSalary": 100800000,
+      "socialShare": 0.14864285714285713,
+      "socialTotal": 14983200,
+      "supportTotal": 115920,
+      "payrollTotal": 15099120
+    },
+    {
+      "age": 60,
+      "months": 456,
+      "careMonths": 240,
+      "amounts": {
+        "pension": 12517200,
+        "health": 6737400,
+        "employment": 684000,
+        "care": 583200
+      },
+      "grossSalary": 136800000,
+      "socialShare": 0.15001315789473685,
+      "socialTotal": 20521800,
+      "supportTotal": 157320,
+      "payrollTotal": 20679120
+    }
+  ],
+  "scenes": [
+    {
+      "id": "P1",
+      "title": "月給30万円の控除内訳",
+      "start": 0,
+      "seconds": 30,
+      "purpose": "計算式より先に項目と負担額を読む",
+      "narration": "ここからは、月給30万円の一般会社員モデルで見てみます。協会けんぽの東京支部に加入し、賞与はない設定です。40歳未満では、健康保険が1万4775円、厚生年金が2万7450円、雇用保険が1500円。社会保険料は、合わせて月4万3725円になります。別掲の子ども・子育て支援金は345円です。今回は計算方法の詳しい説明は各制度の動画に回し、負担の大きさを見ていきましょう。",
+      "onScreen": "モデル試算／月給30万円／社会保険料 月43,725円",
+      "image": "模式給与明細から控除内訳と小計へ",
+      "animation": "明細の項目と合計を順番に強調",
+      "caption": "社会保険料：月43,725円（40歳未満）",
+      "sourceIds": [
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ],
+      "takeaway": "条件付きの一般モデル。支援金は別掲"
+    },
+    {
+      "id": "P2",
+      "title": "40歳から加わる介護保険料",
+      "start": 30,
+      "seconds": 20,
+      "purpose": "年齢による追加負担を見る",
+      "narration": "40歳になると、このモデルでは介護保険料が月2430円加わります。社会保険料の小計は、4万6155円です。支援金を含めた合計とは分けて表示しています。労災保険料は会社の負担なので、本人の控除額には加えていません。",
+      "onScreen": "40歳から介護分＋2,430円",
+      "image": "40歳未満と40歳以降の内訳棒",
+      "animation": "介護分が棒に追加される",
+      "caption": "40歳から介護分＋2,430円／詳しい計算は各制度の動画へ",
+      "sourceIds": [
+        "P01",
+        "P04",
+        "P05"
+      ],
+      "takeaway": "今回の集計は60歳到達まで。介護の対象年齢全体を表すものではない"
+    },
+    {
+      "id": "P3",
+      "title": "1年分の給与と、そのうちの保険料",
+      "start": 50,
+      "seconds": 30,
+      "purpose": "給与と保険料を同じ1年間・同じ目盛りで見る",
+      "narration": "月給30万円が12か月続くと、額面給与は年間360万円です。そのうち、社会保険料の本人負担は、40歳未満で52万4700円、40歳から59歳で55万3860円になります。給与全体に対して、およそ15パーセントです。支援金は別に示しています。また、残りがそのまま手取りになるわけではありません。次は、給与と保険料の両方を38年分に広げます。",
+      "onScreen": "額面給与 年360万円／そのうち保険料 年524,700円・553,860円",
+      "image": "共通目盛りの給与総額の棒の中に本人負担を表示",
+      "animation": "月額→12か月→年額。給与の全体と保険料の一部を同時に表示",
+      "caption": "月々 → 1年 → 38年。給与と保険料を同じ期間で見る",
+      "sourceIds": [
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ],
+      "takeaway": "保険料は給与の一部。給与との差額は手取りではない"
+    },
+    {
+      "id": "P4",
+      "title": "38年間の給与と保険料を比べる",
+      "start": 80,
+      "seconds": 45,
+      "purpose": "累計額だけでなく給与総額に対する割合も伝える",
+      "narration": "22歳から60歳になるまで、38年間働くモデルです。月給30万円が変わらず、賞与もない場合、額面給与の総額は1億3680万円。そのうち、社会保険料の本人負担はおよそ2052万円で、給与総額のおよそ15パーセントです。グラフは同じ期間と目盛りで比べています。40歳からは介護分も加えています。支援金を含めた負担はおよそ2068万円です。給与との差額がそのまま手取りになるわけではなく、給付も差し引いていません。現在の条件を固定した試算で、将来予測ではありません。",
+      "onScreen": "額面給与総額1億3,680万円／うち社会保険料 約2,052万円・約15.0％",
+      "image": "給与総額の面とその一部の保険料を共通のゼロ起点の目盛りに表示",
+      "animation": "22歳→40歳→60歳。同じ時間軸で給与と保険料が増える",
+      "caption": "同じ38年間の額面給与と保険料／差額は手取りではない",
+      "sourceIds": [
+        "P01",
+        "P02",
+        "P03",
+        "P04"
+      ],
+      "takeaway": "給与総額との関係で読む固定条件の試算。将来予測や損失額ではない"
+    },
+    {
+      "id": "P5",
+      "title": "私が感じる負担感と安心感",
+      "start": 125,
+      "seconds": 45,
+      "purpose": "回答済みの本人の実感を伝える",
+      "narration": "正直、給与明細を見ると、「これが引かれなければ、もっと手取りが多いのに」と思います。自分の月々の負担を1年分に換算したときも、「こんなに払っているんだ」と驚きました。一方で、医療費の負担が抑えられることや、老後、働けなくなったときにも一定の保障があることには、安心感もあります。毎月の負担は大きく感じる。でも、保障があることは安心につながる。私は、その両方を感じています。",
+      "onScreen": "私の考え／負担感と安心感",
+      "image": "給与控除を見る場面と生活を支える保障",
+      "animation": "モデル試算から私の考えへラベル切替",
+      "caption": "毎月の負担感と、一定の保障がある安心感",
+      "sourceIds": [],
+      "takeaway": "本人回答の範囲で編集。最後の行動案は別途検討"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {approvedIntroScenes,approvedIntroDuration} from '../src/approved-intro-scenes.ts';
+const approved=fs.readFileSync(new URL('../../../scripts/001-scene01-intro-approved.md',import.meta.url),'utf8');
+const text=approved.split('## ナレーション')[1].split('## 確認記録')[0].trim().replace(/\s/g,'');
+assert.equal(approvedIntroScenes.map(s=>s.narration).join('').replace(/\s/g,''),text);
+assert.equal(approvedIntroScenes[0].start,0);
+for(let i=1;i<approvedIntroScenes.length;i++)assert.equal(approvedIntroScenes[i].start,approvedIntroScenes[i-1].start+approvedIntroScenes[i-1].seconds);
+assert.equal(approvedIntroDuration,(approvedIntroScenes.at(-1).start+approvedIntroScenes.at(-1).seconds)*30);
+assert(!approvedIntroScenes.some(s=>s.narration.includes('でも')));
+const source=fs.readFileSync(new URL('../src/ApprovedIntroStoryboard.tsx',import.meta.url),'utf8');
+assert(!source.includes('<Audio'));
+assert(source.includes('未収録'));
+console.log('PASS: current draft matches script, no でも, contiguous provisional scenes, duration matches, no substituted audio. I3 remains pending creator review.');

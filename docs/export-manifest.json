@@ -1,0 +1,1092 @@
+{
+  "exportedAt": "2026-10-27",
+  "format": "public-sanitized-snapshot",
+  "sourceUntouched": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 188,
+      "sha256": "60659121156c47b59412504a19b1b07f9ffd6b89332e6fbb6730ae12383bd1b3"
+    },
+    {
+      "path": "ai-company-operating-model.md",
+      "bytes": 3798,
+      "sha256": "6bd5f99ed087c2620919660379188b7fb00d79b5bfd67fbc979f8d0882c61e52"
+    },
+    {
+      "path": "ai-company-research.md",
+      "bytes": 4891,
+      "sha256": "a0d8d39c8da27890be1acc82a05003c58b54ea9f217ca9da330805a8d6bf834c"
+    },
+    {
+      "path": "ai-company-role-matrix.md",
+      "bytes": 2329,
+      "sha256": "0e40080cf0fd1dfe71a86c4d41030b6311a285158c0dd9bd70410bd7a50f71ba"
+    },
+    {
+      "path": "ai-company-workflow.md",
+      "bytes": 3238,
+      "sha256": "515544aa1b9f6922c3d958fa42368c1501571409353aab48911b7243fe0b66ce"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/ai-company-operating-model.md",
+      "bytes": 3480,
+      "sha256": "cbec435799e43fde96f15bb75e920733cd26d314f02a2089182fd642cb312f35"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/ai-company-role-matrix.md",
+      "bytes": 2295,
+      "sha256": "12dc0bcecc28ec941091061c1edcfca286d4a0f1103e3989d8b1ad5175f6fd5a"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/ai-company-workflow.md",
+      "bytes": 2122,
+      "sha256": "569b30742373a49acca47ef1a1fb700dc11081328bd5a84b289acd7d6ca1aac4"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/ARCHIVE-NOTE.md",
+      "bytes": 342,
+      "sha256": "78ab71a77a62fa2e07dde3694edc412c88ad2cb4766fab9c3724448770acdc40"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/content-calendar-30days.md",
+      "bytes": 2836,
+      "sha256": "6af9a206cb804e8bf3fefb30fc8d248530480439d723004b51e3e22ad592e1d6"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/content-strategy.md",
+      "bytes": 6367,
+      "sha256": "039e2f8a6e604b0a5bed35d91a9e91bf179e80344d3e6c71b9fb62eea413cdd6"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/next-actions.md",
+      "bytes": 3578,
+      "sha256": "682171c90642b9b55aed2966591cfb15be834b734a42869f8fa7723356e4cb44"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/ops/weekly-operator-report.md",
+      "bytes": 613,
+      "sha256": "392ffbbecfbfbdbc9afd2c81c4e2b620ed33b277aef88603792d5bd992b13d6c"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/priority-for-corporate-sales.md",
+      "bytes": 6082,
+      "sha256": "701782cc143cf08907113cf1da0c1c57d96a30919bbb9aab24a9e3c283473617"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/README.md",
+      "bytes": 7249,
+      "sha256": "ee1f76e61338361e42799af0e2c20cb952685bdfd3bee64a8d69b98e5118a37e"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/scripts/001-kogaku-ryoyohi.md",
+      "bytes": 3254,
+      "sha256": "cf34e05566d5a03394f6812cf10542fa50fedecac72ff314e1492264229a3db7"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/scripts/001-social-insurance-outline.md",
+      "bytes": 4337,
+      "sha256": "a16c3bd85084343d3ac00b7776f94cd73c379036104570bb376cd9dcc057232c"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/scripts/video-template.md",
+      "bytes": 1959,
+      "sha256": "c499dc7cfd4021b2803a569dc976ef9552f80b4957cf50174d1ea80c66c58d3a"
+    },
+    {
+      "path": "archive/2026-09-12-before-series-plan/theme-candidates-10.md",
+      "bytes": 5822,
+      "sha256": "34f50baacbfc53ee7a9cc824ccf7136c2d2ff9084ead4c3a3d6100d12b0dcd9f"
+    },
+    {
+      "path": "archive/2026-10-04-before-four-fields/scripts/001-social-insurance-outline.md",
+      "bytes": 7417,
+      "sha256": "3b7a6d8fadb9751853ddb001405aa8880d0764bdbd5a22a339f4efd7aa44e429"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/content-strategy.md",
+      "bytes": 4290,
+      "sha256": "11aa1c761bd4b3b90e5398edc96cd74bdcad436645f8029ee9698ce10412cfc9"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/next-actions.md",
+      "bytes": 2438,
+      "sha256": "f28471cd13da09ffa7ee00e379beb3c6a82b91f35acd1d45bd1fc924bc4a1b87"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/README.md",
+      "bytes": 3991,
+      "sha256": "7530861744801f8d1cb7f0f9e2ed4f55bbe038ae7ebf38bd51115c09a0bdf3d0"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/scripts/001-social-insurance-narration-v3.md",
+      "bytes": 15152,
+      "sha256": "4aeb699bb00ac32963865e85ba037b965a3c8c9d998152e5152e88004f9e10f1"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/scripts/001-social-insurance-outline.md",
+      "bytes": 7624,
+      "sha256": "908bd0df7fa7b290f97b13da4624907495dc61965a36ebd3ade2cd7639869426"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/scripts/video-template.md",
+      "bytes": 3308,
+      "sha256": "278f50e1279938ddb654c9c823690e25a540ebfabf7ef1d8a90b3a8cb6037d48"
+    },
+    {
+      "path": "archive/2026-10-15-before-personal-view/social-insurance-series.md",
+      "bytes": 3159,
+      "sha256": "186bc9ab255d0ee379d215c41ca68f52d3f97ccd5a3d5e5bd9b7df8c062307d4"
+    },
+    {
+      "path": "archive/2026-10-23-before-simplified-supplement/001-payroll-supplement-2026.md",
+      "bytes": 6863,
+      "sha256": "e4e4b3c2c74fad687a1da5ccbb6660ba8615d9b817d0e7026ee6ce662ad5e750"
+    },
+    {
+      "path": "archive/2026-10-26-before-overview-refocus/001-scene01-intro-approved.md",
+      "bytes": 1372,
+      "sha256": "a5c36a4da1c74957cf921182d096931c0f8868c0c51ac7563c5fc73376132961"
+    },
+    {
+      "path": "archive/2026-10-26-before-overview-refocus/001-scene01-production-guide.md",
+      "bytes": 8868,
+      "sha256": "33ffcc979c9902f9e61761e1de7b9a22db37ce1949bff319b34b7081e9ac772c"
+    },
+    {
+      "path": "archive/2026-10-26-before-overview-refocus/approved-intro-scenes.ts",
+      "bytes": 1657,
+      "sha256": "8b8702002244fb25f478f5b52c65118c14849a9ab16e6d1f8fd85645b78f0dac"
+    },
+    {
+      "path": "archive/2026-10-26-before-overview-refocus/ApprovedIntroStoryboard.tsx",
+      "bytes": 8684,
+      "sha256": "58ef0e2b60207e1a8863d69c68f02af099bc93863f4e4deaf8e6c208399b79db"
+    },
+    {
+      "path": "compliance-checklist.md",
+      "bytes": 4844,
+      "sha256": "bf5cc06d441fdb72521a9751a40e53fd4b84df39933a1d6b1d79cf4586d79c40"
+    },
+    {
+      "path": "content-calendar-30days.md",
+      "bytes": 2594,
+      "sha256": "7ddfcf5877382d05e1d868d3a78486bd48f9e98a0fe0badc4f12efac8229b437"
+    },
+    {
+      "path": "content-strategy.md",
+      "bytes": 6428,
+      "sha256": "cf607da1afbe23eb50bbad8afd81d8bf4c4e0b7d1e9118a00f117d03978252cb"
+    },
+    {
+      "path": "docs/PROJECT_HISTORY.md",
+      "bytes": 4865,
+      "sha256": "785f546269139edbf049bb71d172215e1be19b53fba036ad57fff69eaf6991f0"
+    },
+    {
+      "path": "docs/PUBLIC_EXPORT.md",
+      "bytes": 2332,
+      "sha256": "c88b4c38af8b4b75a05895225c6a49c9ec0a88f8954a2426c05e14cf2a5fbd17"
+    },
+    {
+      "path": "learning/social-insurance-overview.md",
+      "bytes": 16116,
+      "sha256": "e9f9cf96921173bf3fa13d8173e15f7163105e8b99acaf88cb943112f38e809d"
+    },
+    {
+      "path": "next-actions.md",
+      "bytes": 2107,
+      "sha256": "096ba55c52d30693d60295ef336069204c00dee144e76fe90c361fd260bc7897"
+    },
+    {
+      "path": "ops/001-scene-production-tracker.md",
+      "bytes": 1802,
+      "sha256": "ff44d3140d7de7b07c837c8816eec81c3fa3c7fa7844ba18ff42cc2406ba0a5e"
+    },
+    {
+      "path": "ops/experiment-log.md",
+      "bytes": 514,
+      "sha256": "52344f06938263c3557f0df8adefdbb205b02dc35c419b6bea08ee3779d63c06"
+    },
+    {
+      "path": "ops/video-review-template.md",
+      "bytes": 1083,
+      "sha256": "ba89c46b595518e4b6cdacbd5c3cb8f5c0d1f70c3135724fcd830f416f6c891f"
+    },
+    {
+      "path": "ops/weekly-operator-report.md",
+      "bytes": 793,
+      "sha256": "8c721e49b84fc69642a2bf5147eb57328a4bb0f64208fd596e5127b0102e1405"
+    },
+    {
+      "path": "priority-for-corporate-sales.md",
+      "bytes": 6441,
+      "sha256": "fb3fe654cf27cf89c53739b3770ac67647ca3d8ab1c7a76cd3dffb3ec6bf7441"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6112,
+      "sha256": "3b9fef32049da267fdab17d34f5576fbeb195e398767c87e636665cc7fb55116"
+    },
+    {
+      "path": "research/001-annual-premiums-input.md",
+      "bytes": 4243,
+      "sha256": "f784a4616fa356f5ca497d2abd11b6f4c20686f8c864f22bfeebdd9f64427f45"
+    },
+    {
+      "path": "research/001-creator-response-2026-10-20.md",
+      "bytes": 784,
+      "sha256": "2b6849f3f961ec7acac6411ba69987b161b568934cbb4481e85fbc9af51630b0"
+    },
+    {
+      "path": "research/001-overview-v7-sources.md",
+      "bytes": 2277,
+      "sha256": "d94eb421e19f231640fe187a1144cc850cbfc862528a75b7e64840b48c7b9536"
+    },
+    {
+      "path": "research/001-payroll-model-2026.md",
+      "bytes": 11197,
+      "sha256": "274c0450837ef9813bd664c95ab7c2d12a9f6d7ef7701ff22e6abbfbb23dc5a7"
+    },
+    {
+      "path": "research/001-social-insurance-source-packet.md",
+      "bytes": 7735,
+      "sha256": "e7a2d0bfc9242fa56521182e73099dd42bd7f4febb37584413b0368ce88c7b3f"
+    },
+    {
+      "path": "research/medical-insurance-financial-protection-note-2026-10-26.md",
+      "bytes": 3003,
+      "sha256": "722e5ad47f17ccee402613519f52c56b52b7f6bb2ee8604c13cd15016fdc1375"
+    },
+    {
+      "path": "research/source-packet-template.md",
+      "bytes": 694,
+      "sha256": "5534d93443fefe52f6dbe71f215f37989da6312981f5ec249c845e0c0205ecbb"
+    },
+    {
+      "path": "research/x-signal-log.md",
+      "bytes": 1978,
+      "sha256": "531c4cafd3a7cf6d1f7d325bef758406fbc257e3193c309bb1d11626bdf737c1"
+    },
+    {
+      "path": "reviews/001-overview-v7-editorial-review.md",
+      "bytes": 6169,
+      "sha256": "d19f57edd990fcfd2cc98d7f41b3874315631c0148d2dc54a25e3491b0512181"
+    },
+    {
+      "path": "reviews/review-receipt-template.md",
+      "bytes": 1086,
+      "sha256": "998073028dfac092c3c77c823f52361dc44e728c366ec8cae4c93b012119406b"
+    },
+    {
+      "path": "scripts/001-kogaku-ryoyohi.md",
+      "bytes": 3619,
+      "sha256": "3aac95cfd75fac2bc8c33b2a12f2b187427682cf9bdae1e84098849d8e26b99a"
+    },
+    {
+      "path": "scripts/001-payroll-supplement-2026.md",
+      "bytes": 6762,
+      "sha256": "92599d904b9e5e99b56f5663f6e81d1b89fc48479302436b344f3de424f92903"
+    },
+    {
+      "path": "scripts/001-scene01-intro-approved.md",
+      "bytes": 1421,
+      "sha256": "a77f17e6243d4679b233bdec435caa6543ed0f1ef227d42508fc5b0141810d34"
+    },
+    {
+      "path": "scripts/001-scene01-production-guide.md",
+      "bytes": 5450,
+      "sha256": "a6e2f772ef4b34c4025cb4a0acb52d899206bc1b5d75c8c5f69c149de1611e2b"
+    },
+    {
+      "path": "scripts/001-social-insurance-master-outline-v5.md",
+      "bytes": 25500,
+      "sha256": "b15e40858e63424df7d2c3bbf83a5e4be5def59bda08561d69f63b478f0d3fa6"
+    },
+    {
+      "path": "scripts/001-social-insurance-master-outline-v6.md",
+      "bytes": 10508,
+      "sha256": "15108c6178a03c2680a4c14b2b1c68c0f0212597f29b2d145b860590addcfc5d"
+    },
+    {
+      "path": "scripts/001-social-insurance-master-outline-v7.md",
+      "bytes": 12924,
+      "sha256": "5121141eda3862dc83a3121b21097badc5deb71432387b310d342f846ac74ec3"
+    },
+    {
+      "path": "scripts/001-social-insurance-narration-v1.md",
+      "bytes": 10608,
+      "sha256": "6fc2212f554c0ed7b2b90535fb7ea4213868c74d67be467e2b736282d2670b73"
+    },
+    {
+      "path": "scripts/001-social-insurance-narration-v2.md",
+      "bytes": 12912,
+      "sha256": "b8b847976ceba384a0def876f6361f1c1a8a2ea65ab6c577624e60f482daec26"
+    },
+    {
+      "path": "scripts/001-social-insurance-narration-v3.md",
+      "bytes": 15436,
+      "sha256": "4c20d848399e6c847ce719a8a8ef90b3c8aa5a9e56c6becafde07df4942d62fc"
+    },
+    {
+      "path": "scripts/001-social-insurance-outline.md",
+      "bytes": 7801,
+      "sha256": "ec930884be246e75fcd5725efb5585388e708d13342633dbdb53a990131b7065"
+    },
+    {
+      "path": "scripts/001-social-insurance-restructure-v4.md",
+      "bytes": 21760,
+      "sha256": "34b5f80a45587c630ca7672419ec435c4ef8e18c3028da1302383a3e869a866d"
+    },
+    {
+      "path": "scripts/video-template.md",
+      "bytes": 3973,
+      "sha256": "e59145b08eac99b23a9b901e9ad9d8e970512eeeb3e865a6366ff3e039c2d145"
+    },
+    {
+      "path": "social-insurance-series.md",
+      "bytes": 3449,
+      "sha256": "451aaeee81763a63b72e9b26616d11ed72e6f3cc095e45052b9a600e388e78bc"
+    },
+    {
+      "path": "source-log.md",
+      "bytes": 4189,
+      "sha256": "ffecbdfe53897bb4d39deb93ba8094092076a3fe4e1c71978c57479d026ac57e"
+    },
+    {
+      "path": "theme-backlog.md",
+      "bytes": 5090,
+      "sha256": "4d6b104f3e392d5e7c319f71478c6605e4046a8b9893f5aa8c668e747b17a31f"
+    },
+    {
+      "path": "theme-candidates-10.md",
+      "bytes": 6181,
+      "sha256": "26b164c239baf0dc99ef76b46a84f711481ebbd0024a8026c4a92d838bde29bb"
+    },
+    {
+      "path": "video/remotion-social-insurance/.gitignore",
+      "bytes": 107,
+      "sha256": "02dfb70b1f72d82cd7d905f01afa656fe0f464c86fd0c2381ad209b364a14dbe"
+    },
+    {
+      "path": "video/remotion-social-insurance/AUDIO-REVIEW.md",
+      "bytes": 3147,
+      "sha256": "9076d65d62a4cce84376933d9bc46b20a06705265c634e46ee228a9a35da1e09"
+    },
+    {
+      "path": "video/remotion-social-insurance/NARRATED-INTRO.md",
+      "bytes": 1491,
+      "sha256": "fc34a1d065db05aeb566b54415882efd0b7815d132a2d752b9f1b96c32d7e1a3"
+    },
+    {
+      "path": "video/remotion-social-insurance/package-lock.json",
+      "bytes": 181452,
+      "sha256": "32f9d2a494991113144e6ae91f2b8eb0c6d409be743a1ed2474f020070b44139"
+    },
+    {
+      "path": "video/remotion-social-insurance/package.json",
+      "bytes": 1585,
+      "sha256": "4c30ed0621c778e0480cc2e1d37e9ce74f92da529d0f88424b07a5da8796ab28"
+    },
+    {
+      "path": "video/remotion-social-insurance/preview-server.cjs",
+      "bytes": 5101,
+      "sha256": "c25815a59c0ab21f340aa3b7c59af29dfbb0b6678fc2edf5fabd62fb888c66f3"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/audio/README.md",
+      "bytes": 441,
+      "sha256": "5dedfedb047ffe9797fa90a52c9b4285abbbb801b964cf9b22988a834499abda"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/charts/premiums-lifetime-2026.svg",
+      "bytes": 19745,
+      "sha256": "76205f48c636a7dcc336580bee22520afad01eac453cc41144c66cab89b31ac4"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/charts/premiums-model-2026.json",
+      "bytes": 10977,
+      "sha256": "7dd6978131552c06793b2330041a5931e0a3931033af6738bd1bc551cdb07bfa"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/01-payslip.svg",
+      "bytes": 4439,
+      "sha256": "5ce44ca11a6ad3d05caf24a07e8a470c59278f0d408d84462b19acd584600ee4"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/02-pooling.svg",
+      "bytes": 6274,
+      "sha256": "40165cc6a880fe1d59460e8cc44c1e937dbc4abc19999922ebf43db8072c156d"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/03-fields.svg",
+      "bytes": 4171,
+      "sha256": "08cf3f249917d5b3a76b3e3e7054ff25e45411031c18cad1a9d4cefd9ae4741b"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/04-risk.svg",
+      "bytes": 6760,
+      "sha256": "e02061bf6caabff8e822a0f4094d66f5a52983a2d82dd3fda7063f5612b54e5c"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/05-coverage.svg",
+      "bytes": 3626,
+      "sha256": "2b39f29314d12c52e413537992ec6112b8bab3f86354610adc3203de433c9453"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/06-contributions.svg",
+      "bytes": 3300,
+      "sha256": "bfa5cc7b86b36eadd1fd723f27d7cbfbcb8ff7f80247f90773c5d90b7511fd09"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/07-cautions.svg",
+      "bytes": 4588,
+      "sha256": "5f4729ea48cb088478aa6ac122ec54142ab971c6b678471a55d874f8900b0d01"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/08-health-use.svg",
+      "bytes": 3767,
+      "sha256": "c22b3a6be640c93160561f35ae81f252468870de39ea93071a81a90106330620"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/08-how-to-use.svg",
+      "bytes": 5331,
+      "sha256": "eb833c05465f12103e6ea6bc026990204673c9b4f50d267d93d91fee2cbcde04"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/09-contacts-v2.svg",
+      "bytes": 5377,
+      "sha256": "cbc27a10501678afa97677fc3c0621437ae51f667717369f33e33a1c43b3a2f3"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/09-contacts.svg",
+      "bytes": 4285,
+      "sha256": "edd104b69d6aa7a7036aca454981434bfd6e52c3f4e2274290732906fc17ecc8"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/storyboard/10-summary.svg",
+      "bytes": 3632,
+      "sha256": "b3838527d0a238af375fb2c3e9a593d5e58b04de6b5fb85f43d227a5793e2a15"
+    },
+    {
+      "path": "video/remotion-social-insurance/README.md",
+      "bytes": 2991,
+      "sha256": "6e94c5533412dc75db535100a8f2460ce33c9a6dbe9dd9bb259294ea226e5dbe"
+    },
+    {
+      "path": "video/remotion-social-insurance/remotion.config.ts",
+      "bytes": 116,
+      "sha256": "a75d4a09e374d5f48c05c6798f98d7041b471bd237b0999dda6fd8895842a70d"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/cleanup-narration.py",
+      "bytes": 6345,
+      "sha256": "0e3d1e515025c02355c4d0912687ba28fab67b6e408743f0aa57a1b70a2f6169"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/generate-premium-assets.mjs",
+      "bytes": 1023,
+      "sha256": "e5f59d8488590eb04b3d7d2f6562086ae68be049a71c351de6960bb3f74d544a"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/narration-preview-server.cjs",
+      "bytes": 3593,
+      "sha256": "189d0a894f650937a28758a6fc9b01112335bcfb65aacf7cccd11bd7a5a3acd8"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-benefits.mjs",
+      "bytes": 4047,
+      "sha256": "37ddd5ebfa49a024c49e135ccb57ae5d9469c718707e6f0e923bae83b8f8db04"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-fields-captions.mjs",
+      "bytes": 1362,
+      "sha256": "363ef6f1e15214cd74ee0cfa71d5bcab89a0db9220ade21120387f689a80e3c8"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-fields-v2.mjs",
+      "bytes": 3492,
+      "sha256": "8742906faf80e02c19f21404964f086d85bccf5870eb0b7575b9c164fa916878"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-intro-edit.mjs",
+      "bytes": 2960,
+      "sha256": "ec6083572ee40366b175aec70694201a0e92311b95d9ab186f29c07b63bbbde2"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-narration-manifest.mjs",
+      "bytes": 2171,
+      "sha256": "195e327ffc031ea25103df41acf165a920d762d7320fbce4da878b9221b8db12"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-purpose-captions.mjs",
+      "bytes": 1236,
+      "sha256": "5fbdff66904e67daa5af603dbb2d74d9a435a99efe8b472bb228e22daadd1c0f"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/prepare-recording17.mjs",
+      "bytes": 2426,
+      "sha256": "c707c3e77c159359625a688d9f22e8b134b9fb7e5b3f58aac0d64571e3b3c4fe"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/review-benefits.mjs",
+      "bytes": 1288,
+      "sha256": "2028901804273cf5c84ba73dc5e173ab6d819f0e889289be315cb27cfd4643a6"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/review-recording19.mjs",
+      "bytes": 1318,
+      "sha256": "12b36f1d92d54d71f7d2bf88281cd68f83617f5c003a0a3df53d7262f023e309"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/transcribe-audio.mjs",
+      "bytes": 6146,
+      "sha256": "871abdcc47ab9fe1e97f19762fc290e4eea8e7173119b03f18ba4045f1563cf0"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/transcribe-audio.ps1",
+      "bytes": 1405,
+      "sha256": "9c08333b8a59232b85a9050e04c0e17eb362d2d5d7425082b18a22cd3fb92ba1"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/tsx-preview-loader.cjs",
+      "bytes": 250,
+      "sha256": "e07ff8eb5991b776492a3025bd11865e258695c5fd6d436350643a4f8213676a"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/verify-approved-intro.mjs",
+      "bytes": 1189,
+      "sha256": "0fd6da1d437b29e1e6b9a18a5d94619a9da2c2291194cbd46d79e9d6722dce97"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/verify-overview-refocus.mjs",
+      "bytes": 2204,
+      "sha256": "2d4bf1066643572ee19ad01ec20c7bcc142fe58d9f57e59db36c77bc50c55c39"
+    },
+    {
+      "path": "video/remotion-social-insurance/scripts/verify-premium-model.mjs",
+      "bytes": 2449,
+      "sha256": "ff08036ec72116b074dffac1aeafa82daf9a51b66ed49c89a2e80d9752d9cbc6"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/approved-intro-scenes.ts",
+      "bytes": 1660,
+      "sha256": "c63793ad72698bc4d1c22d9c47c29395aeeb5f6e98f4524b3d54e13fac300cb3"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/ApprovedIntroStoryboard.tsx",
+      "bytes": 7751,
+      "sha256": "1510c64bdbebf036bb507f3bb3e165950d0486550047781305f8dc039b86c27e"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/benefits-timing.json",
+      "bytes": 4199,
+      "sha256": "abcfdd99eda3917490b5266c3ec278ae1de89f474de2ebfab3334c3e7bbe4d2d"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/fields-timing.json",
+      "bytes": 3272,
+      "sha256": "b23ad5f8497b8af0f4025030eeee337834a102b2d691b6736147811a90babae6"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/index.ts",
+      "bytes": 105,
+      "sha256": "5462d3268136731ce43bfd7c5072ea1ba48b51fec94fa30076f5044f4b39e4a2"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/IntroPreview.tsx",
+      "bytes": 5355,
+      "sha256": "b6fdb915757ea9ab3c10aa519d862e58c49e7982ffe1a380bcb622f3533f46ff"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/NarratedBenefits.tsx",
+      "bytes": 7337,
+      "sha256": "002ed656c2bb35c78878bf4867a1c4d81e6e45cca3a931ea3d381f4ef31be491"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/NarratedFields.tsx",
+      "bytes": 6689,
+      "sha256": "34357b8f5755d09c5a167f7c76513d46348b0084a0d773af5e1eb6ec83bebe71"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/NarratedIntro.tsx",
+      "bytes": 10058,
+      "sha256": "b9db10622575c7f76a904e5feb6042089c0d08e6a82e0755d45de8a8ddd86a9c"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/NarratedPurpose.tsx",
+      "bytes": 7907,
+      "sha256": "71b16040f5fd44a5e36af4fa9142b67698f452b888e97035aa27fe30e2d4f5ab"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/narration-preview.tsx",
+      "bytes": 8811,
+      "sha256": "edd5088e5733b83be8cc2091f034bf179ca14b8d414edc940c9a73c7037d2ca9"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/narration-recordings.json",
+      "bytes": 12151,
+      "sha256": "7c09951c1101ee60310048370a9ed636be21689191fbcd461a5104b1606eaca4"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/NarrationAudio.tsx",
+      "bytes": 500,
+      "sha256": "e11910b27a308b44d5a39f83a808742b8faacf1ef1e977421492f01616f93d87"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/overview-outline.ts",
+      "bytes": 2772,
+      "sha256": "c0f52bebb80ce58638618aad67f3510d1fc97d40b7e4401366eee8f9016d97f0"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/OverviewPayroll.tsx",
+      "bytes": 5483,
+      "sha256": "44fe997133f6bda45f2a0fcc2942f0e4ad53d388769e54541d710164801dff0f"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/premium-model.ts",
+      "bytes": 15292,
+      "sha256": "8c97dac32fb07019113de718f8d21cd80b68d6d90773bbbca8f357bea1913044"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/PremiumSupplement.tsx",
+      "bytes": 11331,
+      "sha256": "67750b78d5afdff0e92b917cc29fcbcb530d51a751ed13d049ef6c84c672e15d"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/purpose-captions.json",
+      "bytes": 1431,
+      "sha256": "b93fe75f4623f97216734693152a114017eef7fa45e4fd3fbd798f76a1164711"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/Root.tsx",
+      "bytes": 3398,
+      "sha256": "ebbcd5f0bb5d9c39746b08c955ebb9d816e2a66d13fdf0e875e1484a8bc122d5"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/SocialInsuranceOverview.tsx",
+      "bytes": 3362,
+      "sha256": "01438e5b37bfd6bed6c5f62704d66d9cdc0271bcbf93e06ba1ed48d87cb70a0a"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/storyboard.json",
+      "bytes": 1899,
+      "sha256": "f7494f16597ce2f38f615d4257d9880708b992b7cd902f5179db01432a8b8c1e"
+    },
+    {
+      "path": "video/remotion-social-insurance/src/VisualStoryboard.tsx",
+      "bytes": 799,
+      "sha256": "f7a2a2b48f30172fefab51396800fc648573da501c1a68a85706f6fbd1a31463"
+    },
+    {
+      "path": "video/remotion-social-insurance/storyboard-server.cjs",
+      "bytes": 4512,
+      "sha256": "2397ba4a49e7e55f4f09bb96db3dd50cfd7a3ce95a5f08dbec3333f573c8a394"
+    },
+    {
+      "path": "video/remotion-social-insurance/STORYBOARD.md",
+      "bytes": 5293,
+      "sha256": "26ff0f7ec222dc4dcb86f7765e5db1d248ce0c8ccdb7cc4c49646eba5a09aeaf"
+    },
+    {
+      "path": "video/remotion-social-insurance/TRANSCRIPTION.md",
+      "bytes": 3204,
+      "sha256": "002e7fade4fd3a4e69bcb1d0e64dff1492462a3c8243bf25f9714a4c0509d239"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/benefits-edit-notes.md",
+      "bytes": 2055,
+      "sha256": "0e9f7b9f15e09a875408f773703ffbb210a506bc4b048c617658b6450a114dff"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/cleaned-v1/audio-cleanup-report.json",
+      "bytes": 5164,
+      "sha256": "cbdd0563e9ed25c060a05fd65fcf7cd1c70311f22117eb1d103a10206811f5bd"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/cleaned-v1/coverage.srt",
+      "bytes": 1118,
+      "sha256": "585b5bc5f502a072f484d39e52144bf62394be35bbd9f054234bc5bcb4e9c4d2"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/cleaned-v1/fields.srt",
+      "bytes": 1923,
+      "sha256": "5452e321227d9c28c97b87eec60ace7a14be374c19e7c4fe130b413c3df30c34"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/cleaned-v1/intro.srt",
+      "bytes": 1426,
+      "sha256": "554d0819d98641bf2ecdf4d46bc9cda154ab894639c11a5133ad8e0bf6a80cab"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/cleaned-v1/purpose.srt",
+      "bytes": 1703,
+      "sha256": "4cf9d218cd93ff13de045b64eb0dc4d5e32b94a7fff39a2f98e37fed2637ce41"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/cleaned-v1/risk.srt",
+      "bytes": 1232,
+      "sha256": "4965efd1131b91d8e0f3d8e63aafbd062b396592b6dafbce00a702a0348e9c43"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/coverage-benefit-v1.filter.txt",
+      "bytes": 82,
+      "sha256": "fc24c9a5b864a508652f5c077fa035730ddf4b4bc54ff243856bfe80143ac122"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/coverage-benefit-v1.json",
+      "bytes": 3391,
+      "sha256": "aa283c918d00737736bdb3b4624745b27c433529553488639e5c754bc7a4c0db"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/coverage-benefit-v1.srt",
+      "bytes": 1118,
+      "sha256": "585b5bc5f502a072f484d39e52144bf62394be35bbd9f054234bc5bcb4e9c4d2"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/coverage-benefit-v1.txt",
+      "bytes": 720,
+      "sha256": "ea6c849339d20b5bad867ef192433804105e9a3e1d7349a146203d86401a84da"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/coverage-segment-review.json",
+      "bytes": 3346,
+      "sha256": "a5e8dca8dd4ec8bd8026727cc53c33c373b2a5eec7fb208233ba1037178d7a2c"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v1.json",
+      "bytes": 3747,
+      "sha256": "d3da0be99d65f48d90a6fedb43d12146b848bf9e0896ba47f1433eb7017fa5d0"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v1.srt",
+      "bytes": 1961,
+      "sha256": "157afce70202ec6397a64882691489270ada49393800993775d533ef5d8bf809"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v1.txt",
+      "bytes": 1155,
+      "sha256": "d14adb4c7c1b55eb7fa802f074bdac18c11d181676a090f10ebabeb7ec33361a"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v2.filter.txt",
+      "bytes": 203,
+      "sha256": "d0ff2a0a99152e3239c8673ed369d3a1f6d45e94efc2fac509e26ec98aafe3af"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v2.json",
+      "bytes": 5774,
+      "sha256": "f8e854ab39945c04d907d89091ad12804ee98f629ccc82554222b3161b27b3e0"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v2.srt",
+      "bytes": 1923,
+      "sha256": "5452e321227d9c28c97b87eec60ace7a14be374c19e7c4fe130b413c3df30c34"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-recording19-v2.txt",
+      "bytes": 1151,
+      "sha256": "d3508d070710d6c4dc0aabf48ffed88eeb1611bb364a39ddd91fcc33dc3b406d"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/fields-timing-v1.json",
+      "bytes": 2447,
+      "sha256": "6a8ab1f23ab977fe24cfa5fdf729d5df4c555217bcdf8cb4319835d64a1ed97d"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edit-notes.md",
+      "bytes": 2129,
+      "sha256": "07c2fd4250eebce99b0a405b3f4a81fa331c4604b410ed5803ea69b7720eb186"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v1.ffmpeg-filter.txt",
+      "bytes": 145,
+      "sha256": "f391c9ee56c46c1d5c4d0eff0b9439b18f180de13dc590b03883c4b1b4970658"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v1.json",
+      "bytes": 3315,
+      "sha256": "600432e07b010343d82738f388d277ef4e1b314af35e59b375df709db532fd49"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v1.srt",
+      "bytes": 1524,
+      "sha256": "bcde73a073ca50409257ddef0b6af183436eb35fdd8c382132e184d6c3f5434c"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v1.txt",
+      "bytes": 854,
+      "sha256": "2d4860fad33a584dc6f27b2d1e32c2623fe1333f5240178efe2fa9ae94fb72df"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v2.ffmpeg-filter.txt",
+      "bytes": 144,
+      "sha256": "13c96f99d2d04a7c381feb31455503f2cac99871e63df173158398381213af3a"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v2.json",
+      "bytes": 3222,
+      "sha256": "0bd78ef075430f39dc4e1ce9b4e9d7557eb2bfda4fcec517985a45203a219dd1"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v2.srt",
+      "bytes": 1486,
+      "sha256": "90586790d036413ee547de9c111bee8ccc6624848f3d4761566997bde084dd20"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-edited-v2.txt",
+      "bytes": 850,
+      "sha256": "b030092619e49f42e3149ad71638dd11b45f41169d223a3a4990a6a696c1ea28"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-recording17-v1.ffmpeg-filter.txt",
+      "bytes": 206,
+      "sha256": "1fdebb48b8ee9786f104c13c7c8fe27edd4f1e8eae7d8e1390e6bac136d9fc1d"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-recording17-v1.json",
+      "bytes": 2851,
+      "sha256": "274d004fdc0cec9bf18ebc922362ce51b21b45f032fc1528d98db2edb4bcb1b6"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-recording17-v1.srt",
+      "bytes": 1342,
+      "sha256": "f9d32db59fb2a352f3fc5793a7a680ee57c87f8de02fffcc276e55f78794802f"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/intro-recording17-v1.txt",
+      "bytes": 842,
+      "sha256": "935a5dde8d60991665378c3ec64b6906bd7e57bcdf0d46a150c3223ba0b2bef2"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/purpose-recording18-v1.json",
+      "bytes": 2223,
+      "sha256": "b339e03d695df4c16bb30165f6c2e42963e8740937100cc13d870a27e8c7681e"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/purpose-recording18-v1.srt",
+      "bytes": 1703,
+      "sha256": "4cf9d218cd93ff13de045b64eb0dc4d5e32b94a7fff39a2f98e37fed2637ce41"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/purpose-recording18-v1.txt",
+      "bytes": 1101,
+      "sha256": "3d591105da16b781bdea2bbd931a990274c442e27ca134b4a2e0e307389b669e"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/recording17-edit-notes.md",
+      "bytes": 1680,
+      "sha256": "d1152003007bc2bd652dfadcb050d167c77e62e1b71cd77b880e2b0d002f0d9c"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/recording18-edit-notes.md",
+      "bytes": 1234,
+      "sha256": "0e46d10fe80ee0d631222694ec786817a3f6408a9ead1792132ed78808551d96"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/recording19-edit-notes.md",
+      "bytes": 1377,
+      "sha256": "5a12e942edf45d446f8f496bb0eb82f046855013d8ebb6657913125247c80152"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/recording19-opening-review.json",
+      "bytes": 867,
+      "sha256": "659293436f9b2008d803e7bd6bed0d2692d2a8da579369a3cbd6684c8a8bbbc3"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/recording19-segment-review.json",
+      "bytes": 5633,
+      "sha256": "61d4dd240ba55686a65bafc18c908b315becf65c171f8d85bcba1e1c9ceeb9ef"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/recording19-v2-notes.md",
+      "bytes": 1549,
+      "sha256": "72f0f2b00d18599159831ce782a0a8b8e173416c473e7aab2ef87ebdecdfd09e"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/risk-benefit-v1.filter.txt",
+      "bytes": 144,
+      "sha256": "94e2b8f6aea9f0d7bd80f92354d4dd1ce762498af8a36db0ba9b412f492f05a2"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/risk-benefit-v1.json",
+      "bytes": 3610,
+      "sha256": "adcfa647c41a8504479ca987a8eb4de88e56db1eac2a5aa226b0bb36d3260f76"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/risk-benefit-v1.srt",
+      "bytes": 1232,
+      "sha256": "4965efd1131b91d8e0f3d8e63aafbd062b396592b6dafbce00a702a0348e9c43"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/risk-benefit-v1.txt",
+      "bytes": 800,
+      "sha256": "9d45889cbcdc5fe638d5f8b4f79da40afccbbe5322c166b3463515dab0a0516e"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/risk-segment-review.json",
+      "bytes": 3553,
+      "sha256": "478bbfb067d7d3d42c5253cc6effcd5c86433ef554e4b97ab76efa7cb26363d6"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/メリット1：リスク分散.json",
+      "bytes": 3064,
+      "sha256": "10d7f70ecd75351021a8a542f83c396d1232b65fc191bfc1414d4e37f1c9f35b"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/メリット1：リスク分散.srt",
+      "bytes": 1303,
+      "sha256": "7f282265c7fcb182e75add8479f3a688b03f3d87bab79641e36568e49ecc7bca"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/メリット1：リスク分散.txt",
+      "bytes": 757,
+      "sha256": "2c660d233e217f1d4ce5b008e7e3761c3baa11a4e7008e2f49b71cad86ebcd6c"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/メリット2：幅広い保証.json",
+      "bytes": 3027,
+      "sha256": "246c0f808475acebe6fc9a762c6c8ce1044d00b188f755394496d6c0f5c50c40"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/メリット2：幅広い保証.srt",
+      "bytes": 1282,
+      "sha256": "e6158b6121c262ad58b218aaa16da9852f03bee9d07f36a14e5cbf065f7dbce1"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/メリット2：幅広い保証.txt",
+      "bytes": 698,
+      "sha256": "77d2c372d0ca008ebbc6cdc2ac66d1f42ecdd89e68cf30e2229b8c8f176d6c84"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (16).json",
+      "bytes": 4011,
+      "sha256": "dc1b0a9430f16409c601de07ea0fb71e1fe1f34e668d329f6d09b7551213e786"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (16).srt",
+      "bytes": 1734,
+      "sha256": "e2f8c1b6dfe3575ce25b2128a63f4fcc148a24eb0a78c1cbcc9d5f1d33e07d67"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (16).txt",
+      "bytes": 975,
+      "sha256": "d9b219d4c185f960366924803879b15131aea3008a865bb3bdde42b0235360ea"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (17).json",
+      "bytes": 3550,
+      "sha256": "81b1b7c578b361f07762f03158666e25d9838f56a0fa969aaec491b94f1dfbea"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (17).srt",
+      "bytes": 1540,
+      "sha256": "339275674289fdf81d4233d8a988ca8e18ff60bc7b028135f1100a8172b12f23"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (17).txt",
+      "bytes": 921,
+      "sha256": "5f803f0eff32122f4324bc7d22fca1388dd0465abdfc64746e80bd27f2eae7ca"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (18).json",
+      "bytes": 3868,
+      "sha256": "b9b79f4df5c28ef98352fcba68165d53850138cdce61cc416af9ba53a3470eaf"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (18).srt",
+      "bytes": 1684,
+      "sha256": "d3837fa170d9aeca7b4191d54dac6fc7f1d577a2996fad5ef0bd14b9c9c374c3"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (18).txt",
+      "bytes": 1030,
+      "sha256": "7e9afbaef651df94a87dd3c60e10e2c11dd714d08a2e2ad17ef0abbf1f1d8b91"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (19).json",
+      "bytes": 5463,
+      "sha256": "94bf127c8361551002fec6d21f13673f78a63471823c670bcebebdc94a404fcc"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (19).srt",
+      "bytes": 2319,
+      "sha256": "dccdb5eaeb8ac7b0da4b2734fffd5b6d4d64a4ec408cc4848543f1e1463db34e"
+    },
+    {
+      "path": "video/remotion-social-insurance/transcripts/レコーディング (19).txt",
+      "bytes": 1120,
+      "sha256": "d3e91dfc37efbc29e35979a9628a7fb7e213eeec95679565d4adb1929c496a21"
+    },
+    {
+      "path": "video/remotion-social-insurance/tsconfig.json",
+      "bytes": 395,
+      "sha256": "1b9e06f46412abc4018953b7bc1e3f382e0eafe28726ce9ce5bd8bf0253fe1a8"
+    }
+  ],
+  "excluded": [
+    {
+      "path": "video/remotion-social-insurance/.cache/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.npm-cache-remotion/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.npm-cache-transcribe/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.pip-cache/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.pip-cache2/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.pip-tmp/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.pip-tmp2/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.tools/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/.venv/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/node_modules/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/out/",
+      "reason": "local dependency, cache, output or private audio"
+    },
+    {
+      "path": "video/remotion-social-insurance/public/audio/",
+      "reason": "local dependency, cache, output or private audio"
+    }
+  ],
+  "modifiedSourceFiles": [
+    "archive/2026-09-12-before-series-plan/README.md",
+    "archive/2026-10-15-before-personal-view/README.md",
+    "archive/2026-10-23-before-simplified-supplement/001-payroll-supplement-2026.md",
+    "archive/2026-10-26-before-overview-refocus/001-scene01-intro-approved.md",
+    "README.md",
+    "research/001-annual-premiums-input.md",
+    "research/001-creator-response-2026-10-20.md",
+    "research/001-payroll-model-2026.md",
+    "scripts/001-social-insurance-master-outline-v5.md",
+    "scripts/001-social-insurance-master-outline-v6.md",
+    "scripts/001-social-insurance-master-outline-v7.md",
+    "scripts/001-social-insurance-restructure-v4.md",
+    "video/remotion-social-insurance/transcripts/cleaned-v1/audio-cleanup-report.json"
+  ]
+}

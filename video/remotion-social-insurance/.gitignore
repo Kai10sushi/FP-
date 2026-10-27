@@ -1,0 +1,10 @@
+node_modules/
+out/
+.npm-cache/
+.npm-cache-transcribe/
+.tools/
+.venv/
+.cache/
+.pip-tmp*/
+.pip-cache*/
+*.log

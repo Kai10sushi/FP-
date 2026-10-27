@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+const data=JSON.parse(fs.readFileSync(path.join(root,'src/fields-timing.json'),'utf8'));
+const fmt=s=>{const n=Math.round(s*1000);return `${String(Math.floor(n/3600000)).padStart(2,'0')}:${String(Math.floor(n/60000)%60).padStart(2,'0')}:${String(Math.floor(n/1000)%60).padStart(2,'0')},${String(n%1000).padStart(3,'0')}`;};
+data.cues.forEach((c,i)=>{if(c.start<0||c.end<=c.start||c.end>data.durationSeconds||(i&&c.start<data.cues[i-1].end))throw new Error('Invalid cue');});
+const base=path.join(root,'transcripts/fields-recording19-v1');
+fs.writeFileSync(base+'.srt',data.cues.map((c,i)=>`${i+1}\n${fmt(c.start)} --> ${fmt(c.end)}\n${c.text}\n`).join('\n'));
+fs.writeFileSync(base+'.txt',data.cues.map(c=>c.text).join('\n')+'\n');
+fs.writeFileSync(base+'.json',JSON.stringify({...data,sourceFile:'レコーディング (19).m4a',edits:[[1.15,62.9],[71.4,87.65]],reviewRequired:['年金部分「障害が残ったときは／ときや」の聴取確認','末尾の「まとめています」は台本からの補完'],status:'確認用。自動認識と無音検出に基づく字幕。'},null,2)+'\n');
+console.log(`Validated ${data.cues.length} cues; duration ${data.durationSeconds}s`);

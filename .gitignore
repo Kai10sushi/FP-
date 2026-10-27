@@ -1,0 +1,16 @@
+node_modules/
+**/node_modules/
+**/.cache/
+**/.tools/
+**/.venv/
+**/.npm-cache*/
+**/.pip-*/
+**/out/
+**/public/audio/*
+!**/public/audio/README.md
+.env
+.env.*
+*.pem
+*.key
+*.log
+private-input/

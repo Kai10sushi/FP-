@@ -1,0 +1,5 @@
+# 非公開の音声素材
+
+本人の録音・音声調整版は公開リポジトリに含めない。元の制作フォルダに保持している。
+録音済みCompositionを再生する場合は、制作者がローカルでsrc/narration-recordings.jsonのsource・processedに対応するファイルを復元する。
+音声がない状態では無音のApprovedIntroStoryboard・OverviewPayroll・PremiumSupplementを確認する。

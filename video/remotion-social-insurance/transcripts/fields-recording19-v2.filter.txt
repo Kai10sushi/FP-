@@ -1,0 +1,1 @@
+[0:a]atrim=start=1.15:end=4.3,asetpts=PTS-STARTPTS[a0];[0:a]atrim=start=8.05:end=62.9,asetpts=PTS-STARTPTS[a1];[0:a]atrim=start=71.4:end=87.65,asetpts=PTS-STARTPTS[a2];[a0][a1][a2]concat=n=3:v=0:a=1[out]
